@@ -57,4 +57,4 @@ Here are some ideas to get you started:
 
 </p>
 
-<img src="https://www.codewars.com/users/LikeKugi/badges/large" alt="codewars stats" width="40" height="40"/>
+<img src="https://www.codewars.com/users/LikeKugi/badges/large" alt="codewars stats"/>
