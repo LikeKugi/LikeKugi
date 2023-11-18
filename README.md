@@ -56,3 +56,5 @@ Here are some ideas to get you started:
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"/></code>
 
 </p>
+
+<img src="https://www.codewars.com/users/LikeKugi/badges/large" alt="codewars stats" width="40" height="40"/>
