@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.codewars.com/users/LikeKugi/badges/large" alt="codewars stats"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likekugi&theme=discord_old_blurple)
 
@@ -33,6 +32,8 @@ Here are some ideas to get you started:
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
   <code><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
+
+<img src="https://www.codewars.com/users/LikeKugi/badges/large" alt="codewars stats"/>
 
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></code>
