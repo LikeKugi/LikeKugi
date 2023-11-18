@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=likekugi&theme=discord_old_blurple)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=likekugi&theme=discord_old_blurple&utcOffset=8)
 
-<img src="https://www.codewars.com/users/LikeKugi/badges/large" alt="codewars stats"/>
+[<img src="https://www.codewars.com/users/LikeKugi/badges/large" alt="codewars stats"/>](https://www.codewars.com/users/LikeKugi)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
